@@ -1,0 +1,3 @@
+﻿# Core scanner: Python standard library only.
+# Development/test dependency:
+pytest>=9.1,<10

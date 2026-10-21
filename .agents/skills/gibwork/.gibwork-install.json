@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "owner": "@gibwork/cli",
+  "name": "gibwork",
+  "cliVersion": "0.2.4",
+  "skillVersion": "0.1.5",
+  "sourceRevision": "74769d21141c38ad7fd3bec51ec3292a9a7ae006",
+  "installedAt": "2026-10-21T14:25:35.830Z",
+  "files": [
+    {
+      "path": "LICENSE",
+      "sha256": "9b35bf5b9660d0b2450be8cbd668844643f12a3b7450e5e3ec070c3fbdc92cda"
+    },
+    {
+      "path": "references/cli.md",
+      "sha256": "14d55e2e2923b9ba37d850833a983060a3b41932e77809e71344aaaa92eabe3b"
+    },
+    {
+      "path": "references/mcp.md",
+      "sha256": "713d8b6a6013b5be6c47ecd619e8b7e6c341a79f2f4e9ceb384eb06135c8c7b9"
+    },
+    {
+      "path": "SKILL.md",
+      "sha256": "6c6e36c4b011df72351ddfcb4de75d84a1aa78bd049e361e9b7c3de22417c288"
+    }
+  ]
+}
